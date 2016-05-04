@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatabaseApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Database Interaction</string>
+    <string name="name">Enter name</string>
+    <string name="age">Enter age</string>
+    <string name="city">Enter city</string>
+    <string name="save">Save</string>
+    <string name="fetch_data">Fetch data</string>
+    <string name="delete">Delete</string>
+    <string name="name_error">Please enter name.</string>
+    <string name="age_error">Please enter age.</string>
+    <string name="city_error">Please enter city.</string>
+
+</resources>
